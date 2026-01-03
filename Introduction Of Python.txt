@@ -1,4 +1,4 @@
-What is Python?
+asWhat is Python?
 Python is a high-level, interpreted, general-purpose programming language that is used to create software, websites, applications, games, and to work with data, artificial intelligence, and automation.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In simple words:
